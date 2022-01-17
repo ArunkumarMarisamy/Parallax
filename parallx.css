@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+.ak1{
+    background-image:url(https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/202112/1_sunder-pichai-pti_0-x416.jpg?XfXNKIC7jlOg9opKZ7gfnpZOhicQ8XZ_);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+   
+.ak2{
+    background-image:url(https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/202112/Satya_Nadella___PTI-x440.jpg?pfT.Dfw6hkSL5OrhiRs8_gBUtoM9RIku);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;    
+}
+.ak3{
+
+    background-image:url(https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/202112/gettyimages-830234034-594x594-x396.jpg?.91wtcpZ0mb3ktTOoYhB4zl5CMi_8tWV);
+    background-size: cover;
+    background-repeat: no-repeat;   
+    background-attachment: fixed; 
+}
+.ak4{
+    background-image:url(https://images.thequint.com/thequint%2F2021-11%2F4fca62e6-9b78-461e-9f5c-8651e2d03443%2FREAL.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.ak5{
+    background-image:url(https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/202112/gettyimages-683259130-594x594-x378.jpg?Fkmmuipdd6gXLSqH_AI_doU6LC4LbQ87);
+    background-size: cover;
+    background-repeat: no-repeat;  
+    background-attachment: fixed; 
+}
+
+.ak6{
+    background-image:url(https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/202112/gettyimages-540692024-594x594-x594.jpg?2OF2eAB2pMUG7Fu2LdACyqpjrYrH2Su2);
+    background-size: cover;
+    background-repeat: no-repeat;  
+    background-attachment: fixed; 
+}
+.content{
+    background-color:rgba(0, 0, 0, 0);
+    padding: 1 rem 5 rem;
+    color:white;
+    align-self: flex-end;
+}
+
+
+ .sectext{
+      padding: 50px 100px;
+      height: auto;
+      font-size: 18px;
+  }
+ 
+ 
+  .text{
+    position:relative;
+    text-align:center;
+    color:white;
+    background-color:rgba(0, 0, 0, 0.616);
+    font-size:27px;
+    letter-spacing:8px;
+    text-transform:uppercase;
+    background-attachment:fixed;
+  }
+  
+
+  
+ 
